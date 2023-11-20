@@ -129,3 +129,5 @@ F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\obj\Debug\
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\obj\Debug\netcoreapp3.1\LandonHotel.Test.dll
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\obj\Debug\netcoreapp3.1\LandonHotel.Test.pdb
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\obj\Debug\netcoreapp3.1\LandonHotel.Test.genruntimeconfig.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel.Test\bin\Debug\netcoreapp3.1\Moq.dll
