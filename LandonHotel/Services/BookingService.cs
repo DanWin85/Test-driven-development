@@ -5,16 +5,21 @@ namespace LandonHotel.Services
 {
     public class BookingService : IBookingService
     {
-        private readonly IRoomsRepository _roomRepo;
+        private readonly IBookingsRepository _bookingRepo;
+        private readonly IRoomsRepository _roomsRepo;
 
-        public BookingService(IRoomsRepository roomRepo)
+        public BookingService(IBookingsRepository bookingRepo, IRoomsRepository roomsRepo)
         {
-            _roomRepo = roomRepo;
+            _bookingRepo = bookingRepo;
+            _roomsRepo = roomsRepo;
         }
 
-        public int CalculateBookingCost(int roomId, Booking booking)
+        public bool IsBookingValid(int roomId, Booking booking)
         {
-            return 0;
+            var guestIsSmoking = booking.IsSmoking;
+            var guestIsBringingPets = booking.HasPets;
+            var numberOfGuests = booking.NumberOfGuests;
+            return !guestIsSmoking;
         }
     }
 }
