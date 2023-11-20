@@ -1,0 +1,192 @@
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\bower.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\bundleconfig.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.exe
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.deps.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.runtimeconfig.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.runtimeconfig.dev.json
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.pdb
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.Views.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.Views.pdb
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.AssemblyReference.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfoInputs.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfo.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CoreCompileInputs.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.MvcApplicationPartsAssemblyInfo.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\UserSecretsAssemblyInfo.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Manifest.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Pack.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LandonHotel.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LandonHotel.props
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LandonHotel.props
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LandonHotel.props
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.TagHelpers.input.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.TagHelpers.output.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorCoreGenerate.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Success.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorTargetAssemblyInfo.cache
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorTargetAssemblyInfo.cs
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.Views.pdb
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CopyComplete
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.dll
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.pdb
+F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.genruntimeconfig.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\bower.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\bundleconfig.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.exe
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.deps.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.runtimeconfig.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.runtimeconfig.dev.json
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.pdb
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.Views.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\LandonHotel.Views.pdb
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.AssemblyReference.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfoInputs.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CoreCompileInputs.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.MvcApplicationPartsAssemblyInfo.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\UserSecretsAssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Manifest.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Pack.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LandonHotel.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LandonHotel.props
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LandonHotel.props
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LandonHotel.props
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.TagHelpers.input.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.TagHelpers.output.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorCoreGenerate.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Success.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorTargetAssemblyInfo.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorTargetAssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.Views.pdb
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CopyComplete
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.dll
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.pdb
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.genruntimeconfig.cache
