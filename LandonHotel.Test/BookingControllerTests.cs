@@ -53,5 +53,15 @@ namespace LandonHotel.Tests
 
             bookingService.Verify(s => s.CalculateBookingPrice(It.Is((Booking b) => b.RoomId == 404)));
         }
+
+        [Fact]
+        public void IndexPost_CalculatesPrice_WithCouponCode()
+        {
+            var service = Subject();
+
+            service.Index(new BookingViewModel { CouponCode = "FREEMONEY" });
+
+            bookingService.Verify(s => s.CalculateBookingPrice(It.Is((Booking b) => b.CouponCode == "FREEMONEY")));
+        }
     }
 }

@@ -5,7 +5,7 @@ using LandonHotel.Services;
 using Moq;
 using Xunit;
 
-namespace LandonHotel.Test
+namespace LandonHotel.Tests
 {
     public class BookingServiceTests
     {

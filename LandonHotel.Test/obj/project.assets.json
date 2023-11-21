@@ -10893,9 +10893,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Semister 2 2023\\D202 Software Process\\ASP.NET TDD\\LandonHotel.Test\\LandonHotel.Test.csproj",
-      "projectName": "LandonHotel.Test",
-      "projectPath": "F:\\Semister 2 2023\\D202 Software Process\\ASP.NET TDD\\LandonHotel.Test\\LandonHotel.Test.csproj",
+      "projectUniqueName": "F:\\Semister 2 2023\\D202 Software Process\\ASP.NET TDD\\LandonHotel.Test\\LandonHotel.Tests.csproj",
+      "projectName": "LandonHotel.Tests",
+      "projectPath": "F:\\Semister 2 2023\\D202 Software Process\\ASP.NET TDD\\LandonHotel.Test\\LandonHotel.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "F:\\Semister 2 2023\\D202 Software Process\\ASP.NET TDD\\LandonHotel.Test\\obj\\",
       "projectStyle": "PackageReference",
