@@ -94,6 +94,15 @@ F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\L
 F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.dll
 F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.pdb
 F:\Semister 2 2023\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter1\01_03\End\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.genruntimeconfig.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.AssemblyReference.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfoInputs.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CoreCompileInputs.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.MvcApplicationPartsAssemblyInfo.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cache
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cs
+F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\UserSecretsAssemblyInfo.cs
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.Development.json
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\appsettings.json
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\bower.json
@@ -156,15 +165,6 @@ F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netco
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.AssemblyReference.cache
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.GeneratedMSBuildEditorConfig.editorconfig
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfoInputs.cache
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.AssemblyInfo.cs
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.csproj.CoreCompileInputs.cache
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.MvcApplicationPartsAssemblyInfo.cache
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cache
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\LandonHotel.RazorAssemblyInfo.cs
-F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\UserSecretsAssemblyInfo.cs
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Manifest.cache
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\LandonHotel.StaticWebAssets.Pack.cache
 F:\Semister 2 2023\D202 Software Process\ASP.NET TDD\LandonHotel\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LandonHotel.Microsoft.AspNetCore.StaticWebAssets.props
