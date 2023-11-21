@@ -63,5 +63,6 @@ namespace LandonHotel.Tests
 
             bookingService.Verify(s => s.CalculateBookingPrice(It.Is((Booking b) => b.CouponCode == "FREEMONEY")));
         }
+
     }
 }
